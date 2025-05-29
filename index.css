@@ -1,0 +1,26 @@
+/*color pallete
+#dedede
+#bdffa6
+#69a25a
+#64d05f
+#fee8ea
+*/
+body {
+    background-color: #dedede;
+}
+
+header {
+    background-color: #69a25a;
+    width:100%;
+    text-align:center;
+    color: #dedede;
+    margin: 0
+}
+
+table {
+
+}
+
+table > tr{
+    
+}
